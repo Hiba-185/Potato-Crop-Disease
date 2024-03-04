@@ -1,0 +1,4 @@
+This is the deep learning image processing project in which I have built a model by applying Convolutional Neural Network (CNN) on to the Potato plant leaf images data which would be able to detect two types of diseases present in potato plant.
+Basically , There are two types of diseases found in potato plant such as early blight and late blight and this model will be able to predict whether the potato plant is healthy or having early blight or late blight disease respectively by analysing the plant leaf image.
+The dataset has been gathered from Kaggle named "PlantVillage"and filtered by keeping only three folders of healthy leaf , early blight and late blight.
+The complete project is being deployed in jupyter notebook by using python language and the code is provided in the model.ipynb file.
